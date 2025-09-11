@@ -16,6 +16,11 @@ a {
 ul  {
     list-style: none;
 }
+
+h1,p {
+    margin: 0;
+}
+
 .container {
     margin: 0 auto;
     max-width: 970px;
